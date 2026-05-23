@@ -1,0 +1,52 @@
+PROMPT 1 — Homepage Copy
+
+Generate homepage website copy for a premium beauty salon in Mumbai called GlowUp Beauty Salon.
+
+Target audience:
+Women aged 18–35 looking for modern beauty and self-care services.
+
+Tone:
+Friendly, elegant, luxurious, feminine, trustworthy.
+
+Include:
+1. Main headline
+2. Subheadline
+3. Short introduction paragraph
+4. 3 key benefits
+5. CTA button text
+
+The copy should feel modern, emotional, and website-ready.
+
+
+PROMPT 2 — Services Page
+
+Generate services page content for GlowUp Beauty Salon in Mumbai.
+
+Include these services:
+- Hair Spa
+- Bridal Makeup
+- Facial Treatments
+- Nail Art
+- Hair Styling
+
+For each service include:
+- short description
+- customer benefits
+- why clients love this service
+
+Tone:
+Premium, feminine, trustworthy, simple.
+
+
+PROMPT 3 — CTA Sections
+
+Generate persuasive website CTA sections for GlowUp Beauty Salon in Mumbai.
+
+Include:
+- Appointment booking CTA
+- Self-care themed CTA
+- Limited-slot urgency CTA
+- Trust-building CTA
+
+Tone:
+Warm, elegant, conversion-focused.
