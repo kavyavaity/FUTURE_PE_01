@@ -1,0 +1,18 @@
+PROMPT:
+
+Generate an “About Us” section for GlowUp Beauty Salon in Mumbai.
+
+Tone:
+Elegant, feminine, luxurious, warm, trustworthy.
+
+Include:
+- salon mission
+- beauty + self-care philosophy
+- customer-focused message
+- emotional brand positioning
+
+Keep it website-ready and modern.
+
+--------------------------------------------------
+
+OUTPUT:
