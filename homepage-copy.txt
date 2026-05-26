@@ -1,3 +1,25 @@
+PROMPT:
+
+Generate homepage website copy for a premium beauty salon in Mumbai called GlowUp Beauty Salon.
+
+Target audience:
+Women aged 18–35 looking for modern beauty and self-care services.
+
+Tone:
+Friendly, elegant, luxurious, feminine, trustworthy.
+
+Include:
+1. Main headline
+2. Subheadline
+3. Short introduction paragraph
+4. 3 key benefits
+5. CTA button text
+
+The copy should feel modern, emotional, and website-ready.
+
+--------------------------------------------------
+
+OUTPUT:
 GlowUp Beauty Salon
 Main Headline
 
