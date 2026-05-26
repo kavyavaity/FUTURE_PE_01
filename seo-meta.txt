@@ -1,0 +1,18 @@
+PROMPT:
+
+Generate SEO meta title and meta description options for GlowUp Beauty Salon in Mumbai.
+
+Include keywords:
+- beauty salon in Mumbai
+- bridal makeup
+- hair spa
+- nail art
+- self-care salon
+
+Keep:
+- Meta title under 60 characters
+- Meta description under 160 characters
+
+--------------------------------------------------
+
+OUTPUT:
