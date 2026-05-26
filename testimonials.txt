@@ -1,0 +1,17 @@
+PROMPT:
+
+Generate 5 realistic customer testimonials for GlowUp Beauty Salon in Mumbai.
+
+Tone:
+Natural, emotional, authentic, feminine.
+
+Mention:
+- hair services
+- bridal makeup
+- self-care experience
+- salon atmosphere
+- confidence transformation
+
+--------------------------------------------------
+
+OUTPUT:
