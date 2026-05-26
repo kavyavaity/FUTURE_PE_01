@@ -15,3 +15,49 @@ Include:
 --------------------------------------------------
 
 OUTPUT:
+# 1. Luxury Elegant Hero Section
+
+## Headline
+
+Luxury Beauty Experiences Designed for You
+
+## Subheadline
+
+Indulge in premium hair, skin, nail, and bridal beauty services at GlowUp Beauty Salon in Mumbai — where elegance, self-care, and confidence come together beautifully.
+
+## CTA
+
+**Book Your Luxury Session**
+
+---
+
+# 2. Trendy Gen-Z Feminine Hero Section
+
+## Headline
+
+Your Glow-Up Era Starts Here ✨
+
+## Subheadline
+
+From glossy hair and dreamy nails to flawless glam, GlowUp Beauty Salon is your go-to self-care destination for feeling confident, cute, and completely unstoppable.
+
+## CTA
+
+**Get Your Glow On**
+
+---
+
+# 3. Premium Bridal-Focused Hero Section
+
+## Headline
+
+Bridal Beauty That Feels Timeless
+
+## Subheadline
+
+Walk into your special day with flawless makeup, elegant hairstyling, and a bridal glow created by expert artists who understand your dream look perfectly.
+
+## CTA
+
+**Book Your Bridal Consultation**
+
