@@ -1,3 +1,19 @@
+PROMPT:
+
+Generate persuasive website CTA sections for GlowUp Beauty Salon in Mumbai.
+
+Include:
+- Appointment booking CTA
+- Self-care themed CTA
+- Limited-slot urgency CTA
+- Trust-building CTA
+
+Tone:
+Warm, elegant, conversion-focused.
+
+--------------------------------------------------
+
+OUTPUT:
 Appointment Booking CTA
 Ready for Your Next Glow-Up?
 
