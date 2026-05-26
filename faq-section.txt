@@ -1,0 +1,18 @@
+PROMPT:
+
+Generate a FAQ section for GlowUp Beauty Salon in Mumbai.
+
+Include:
+- appointment booking
+- bridal makeup trials
+- hair spa duration
+- salon hygiene
+- pricing questions
+- cancellation policy
+
+Tone:
+Friendly, professional, trustworthy.
+
+--------------------------------------------------
+
+OUTPUT:
