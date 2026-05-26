@@ -1,0 +1,17 @@
+PROMPT:
+
+Generate 3 homepage hero section variations for GlowUp Beauty Salon in Mumbai.
+
+Variation styles:
+1. Luxury elegant
+2. Trendy Gen-Z feminine
+3. Premium bridal-focused
+
+Include:
+- headline
+- subheadline
+- CTA
+
+--------------------------------------------------
+
+OUTPUT:
