@@ -1,3 +1,25 @@
+PROMPT:
+
+Generate services page content for GlowUp Beauty Salon in Mumbai.
+
+Include these services:
+- Hair Spa
+- Bridal Makeup
+- Facial Treatments
+- Nail Art
+- Hair Styling
+
+For each service include:
+- short description
+- customer benefits
+- why clients love this service
+
+Tone:
+Premium, feminine, trustworthy, simple.
+
+--------------------------------------------------
+
+OUTPUT:
 Our Services
 
 At GlowUp Beauty Salon, every service is designed to make you feel confident, relaxed, and beautifully refreshed. We combine expert care, premium products, and modern beauty techniques to give you a luxurious salon experience in the heart of Mumbai.
